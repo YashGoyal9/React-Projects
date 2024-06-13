@@ -1,0 +1,23 @@
+.filter{
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.button{
+    font-weight: bold;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    /* border: 2px solid white; border-2 se hi ho gya pr iss se na hua  */
+    transition: all 0.2s;
+}
+.button:hover{
+    opacity: 0.5;
+}

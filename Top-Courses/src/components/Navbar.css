@@ -1,0 +1,13 @@
+.navbar{
+    height: 100px;
+    width: 100vw;
+    background-color: black;
+    color: white;
+}
+
+.navbar h1{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+}
