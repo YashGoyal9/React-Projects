@@ -1,6 +1,6 @@
 # React-Projects
 
-This reposiratory contains React Porjects created by HTML,Tailwind CSS and REACT.
+This reposiratory contains React Projects created by HTML,Tailwind CSS and REACT.
 
 Router Project
 
